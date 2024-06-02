@@ -4,7 +4,11 @@
 }
 
 body{
-    background-color: rgb(155, 255, 255);
+    background-color: antiquewhite;
+}
+
+main{
+    background-color: white;
     width: 500px;
     margin: auto;
     padding: 10px;
